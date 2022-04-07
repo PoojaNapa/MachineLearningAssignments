@@ -1,0 +1,1 @@
+# Compare performance of classifiers - KNN, Logistic Regression, LDA and QDA on the Optical Recognition of Handwritten Digits Dataset.
